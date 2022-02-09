@@ -34,7 +34,7 @@ print("Product of two arrays is:",result)
  
 
 ## OUTPUT:
-![output](./matrix.png)
+![output](./multiple.png)
 
 ## RESULT:
 Thus the program is written to multiply two matrix.
